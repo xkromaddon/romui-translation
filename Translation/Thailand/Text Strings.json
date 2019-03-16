@@ -4,7 +4,7 @@
   "Show all available commands.": "แสดงคำสั่งที่มีทั้งหมด",
   "Show all enabled modules.": "แสดงโมดูลที่ใช้งานอยู่ทั้งหมด",
   "Reset your settings to default. Useful when you messed up with the settings": "รีเซ็ตค่าที่ตั้งไว้เป็นค่าเริ่มต้น เหมาะจะใช้ตอนค่าที่ตั้งไว้ทำงานรวน",
-  "Turn on/off Advance Target Information": "เปิด/ปิด ฟังชั่นแสดงข้อมูลของเ้ปาหมาย",
+  "Turn on/off Advance Target Information": "เปิด/ปิด ฟังชั่นแสดงข้อมูลของเป้าหมาย",
   "Unlock and set FPS. Value: 1-120": "ปลดล็อคและตั้งค่าเฟรมเรต ตั้งได้ตั้งแต่ 1-120",
   "Refresh client and dump cache.": "รีเฟรชเกมและล้างแคช",
   "Check your current latency.": "ตรวจสอบค่าปิง",
