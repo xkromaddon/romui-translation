@@ -7,5 +7,7 @@ Localization of the RO:M UI Commands
 3. Commit your changes and make a pull request to the master branch.
 4. Include your discord under the description during pull request so I could give you at least a few award for helping out.
 
+### Please not to troll command/text descriptions. Be decent.
+
 Cheers,
 Neon
