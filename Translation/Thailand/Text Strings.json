@@ -1,0 +1,113 @@
+{
+  "TRANSLATED BY:":"=กูบอท=#9721",
+
+  "Show all available commands.": "แสดงคำสั่งที่มีทั้งหมด",
+  "Show all enabled modules.": "แสดงโมดูลที่ใช้งานอยู่ทั้งหมด",
+  "Reset your settings to default. Useful when you messed up with the settings": "รีเซ็ตค่าที่ตั้งไว้เป็นค่าเริ่มต้น เหมาะจะใช้ตอนค่าที่ตั้งไว้ทำงานรวน",
+  "Turn on/off Advance Target Information": "เปิด/ปิด ฟังชั่นแสดงข้อมูลของเ้ปาหมาย",
+  "Unlock and set FPS. Value: 1-120": "ปลดล็อคและตั้งค่าเฟรมเรต ตั้งได้ตั้งแต่ 1-120",
+  "Refresh client and dump cache.": "รีเฟรชเกมและล้างแคช",
+  "Check your current latency.": "ตรวจสอบค่าปิง",
+  "Reconnect when you get disconnected.": "เชื่อมต่อไปยังเซิฟเวอร์อีกครั้งเมื่อเกมหลุด",
+
+  "__@afk__": "แกล้งตาย",
+  "Turn on/off Auto TrickDead": "เปิด/ปิด โมดูลแกล้งตาย",
+  "Set hp/sp conditions to trigger.": "ตั้งเงื่อนไขระดับ hp/sp ที่จะทำงาน",
+
+  "__@as__": "สกิลอัตโนมัติ",
+  "Turn on/off Auto Skill EX": "เปิด/ปิด โมดูลใช้สกิลอัตโนมัติ",
+  "List all available skills that can be extended.": "แสดงรายการสกิลที่สามารถใช้ได้",
+  "Set your desired manual skill slot as AUTO": "ตั้งค่าสกิลช่องปกติให้เป็นสกิลอัตโนมัติ",
+  "Reset current list.": "รีเซ็ตค่าสกิลอัตโนมัติที่ตั้งไว้",
+
+  "__@selftarget__": "สกิลใส่ตัวเอง",
+  "Turn on/off Self-Target Module.": "เปิด/ปิด โมดูลใช้ AoE สกิลใส่ตัวเอง",
+  "Activate Self-Target for all skills.": "ใช้ AoE สกิลทั้งหมดใส่ตัวเอง",
+  "List all ID of AoE skills.": "แสดงรายการ AoE สกิลที่สามารถใช้ได้",
+  "Set specific skill id as self-target.": "ตั้งให้ใช้ AoE สกิลหมายเลขนั้น ๆ ใส่ตัวเอง",
+  "Reset selt-target list.": "รีเซ็ตค่า AoE สกิลที่ตั้งไว้",
+
+  "__priestsupport__": "พระเดินตาม",
+  "Remove buffing restrictions of some buffs that will be casted only when leader is in battle.": "ปลดล็อคข้อจำกัดของบางสกิลที่จะใช้ได้เฉพาะตอนตัวละครหลักกำลังต่อสู้เท่านั้น",
+  "Buff specific character even without party. (Limited to non-party buffs Heal/Kyrie/Bless/Resu)": "เปิด/ปิด การแจกบัฟให้กับตัวละครหลักนอกปาร์ตี้ ใช้กับบัฟที่ใช้นอกปาร์ตี้ได้เท่านั้นเช่น Heal, Kyrie, Blessing, Resurrection",
+  "Set specific id to buff. (Shortcut: whisper '-buffme' to the priest)": "ตั้ง id ของตัวละครหลักที่จะแจกบัฟ สามารถกระซิบไปหาพระตัวรองว่า -buffme เพื่อแจกบัฟได้",
+  "Reset buff list.": "รีเซ็ตค่าการแจกบัฟที่ตั้งไว้",
+  "Turn on/off priest auto debuffer. (Lex and Decrease Agi)": "เปิด/ปิด การแจกดีบัฟแบบอัตโนมัติ ใช้ได้กับดีบัฟ Lex Aeterna และ Decrease AGI",
+
+  "__autoquest__": "ช่วยเดินเควสท์อัตโนมัติ",
+  "Turn on/off Quest Assistant.": "เปิด/ปิด การช่วยเดินเควส",
+  "Turn on/off Questing Warping upon accepting quest.": "เปิด/ปิด การวาร์ปเมื่อรับเควส",
+
+  "__autosuicide__": "ฆ่าตัวตายอัตโนมัติ",
+  "Turn on/off Auto Suicide.": "เปิด/ปิด การฆ่าตัวตายอัตโนมัติ",
+  "Save current coordinate and map for leveling down.": "บันทึกตำแหน่งและแมพปัจจุบันเพื่อใช้ในการลดเลเวล",
+
+  "__lockspot__": "ล็อคจุดฟาร์ม",
+  "Turn on/off lockspot module.": "เปิด/ปิด โมดูลล๊อคตำแหน่งฟาร์ม",
+  "Set farming radius. Radius can be set from 0 to 200.": "ตั้งรัศมีการฟาร์ม สามารถตั้งได้ตั้งแต่ 0-200",
+  "Save your current coordinate as return piont.": "บันทึกจุดยืนปัจจุบันเป็นจุดที่จะเดินกลับมาเมื่อออกนอกรัศมี",
+
+  "__autoflywing__": "วิงหนีอัตโนมัติ",
+  "Turn on/off auto flywing when your HP drops below 30%. It will use TrickDead to recover your HP.": "เปิด/ปิด การวิงหนีอัตโนมัติเมื่อ hp เหลือน้อยกว่า 30% และจะแกล้งตายเพื่อฟื้น hp ของคุณ",
+
+  "__calculator__": "คำนวนค่าประสบการณ์/ค่าเงินเซนี",
+  "Turn on/off EXP calculator.": "เปิด/ปิด การคำนวนค่าประสบการณ์",
+  "Reset EXP calculator.": "รีเซ็ตการคำนวนค่าประสบการณ์",
+  "Turn on/off ZENY calculator.": "เปิด/ปิด การคำนวนค่าเงินเซนี",
+  "Reset ZENY calculator.": "รีเซ็ตการคำนวนค่าเงินเซนี",
+  "Access endless tower anywhere.": "เปิดร้อยชั้นได้ทุกที่",
+  "Jump to specific floor.": "กระโดดไปยังชั้นที่กำหนดของร้อยชั้น",
+  "Turn on/off UI Warp & UI Storage for NPCs": "เปิด/ปิด การใช้งาน UI Warp และ UI Storage เมื่อคุยกับ npc",
+  "Auto accepts incoming PT request.": "ตอบรับคำขอปาร์ตี้อัตโนมัติ",
+  "Auto accepts incoming ET request.": "ตอบรับคำขอร้อยชั้นอัตโนมัติ",
+  "Auto accepts incoming Follow request.": "ตอบรับคำขอเดินตามอัตโนมัติ",
+
+  "__follow__": "เดินตาม ใน/นอก ปาร์ตี้",
+  "Turn on/off Auto Follow for Non-Party.": "เปิด/ปิด การเดินตามนอกปาร์ตี้อัตโนมัติ",
+  "Set leader id to follow.": "ตั้ง id ของตัวละครหลักที่จะเดินตาม สามารถกระซิบไปหาตัวละครรองว่า -followme เพื่อเดินตามได้",
+  "Set minimum follow radius.": "ตั้งระยะห่างของการเดินตาม",
+
+  "_hplant_": "วางเฮลแพลนท์อัตโนมัติ",
+  "Turn on/off Auto-Cast Hell Plant": "เปิด/ปิด การวางเฮลแพลนท์อัตโนมัติ",
+  "Save current coordinate as Hell Plant's drop point. Can be used up to 3 points.": "บันทึกจุดยืนปัจจุบันเป็นจุดที่จะวางเฮลแพลนท์ สามารถบันทึกได้ไม่เกิน 3 จุด",
+
+  "_mvp_module_": "โมดูลช่วยล่าบอส",
+  "Turn on/off MVP modoule.": "เปิด/ปิด โมดูลช่วยล่าบอส",
+  "Set tracking to auto or manual.": "ตั้งเมื่อเจอว่าจะเข้าไปตีแบบออโต้หรือตีเอง",
+  "Set notification and target to MVP/MINI/ALL only.": "ตั้งแจ้งเตือนสำหรับเป้าหมายเฉพาะ บอส/มีนิบอส/ทั้งหมด",
+  "Filter MVP Boards to MVP/MINI/ALL only.": "ตั้งกระดานบอสให้แสดงแต่ บอส/มีนิบอส/ทั้งหมด",
+
+  "_class_specific_": "โมดูลเฉพาะอาชีพ",
+  "Turn on/off SAGE auto switch bolts module.": "เปิด/ปิด โมดูลสลับเวทย์โจมตีอัตโนมัติ",
+  "Turn on/off BOW class auto switch arrows module.": "เปิด/ปิด โมดูลสลับลูกธนูอัตโนมัติ",
+  "Turn on/off SWORDSMAN class auto Magnum Break buff.": "เปิด/ปิด โมดูลใช้ Magnum Break อัตโนมัติ",
+
+  "_spot_search_": "ค้นหามอนส์",
+  "List all available monsters and their ids in your current map.": "แสดงรายการชื่อและไอดีของมอนส์ในแมพปัจจุบัน",
+  "Go to the nearest respawn spot of the selected monster.": "เดินไปยังจุดเกิดที่ใกล้ที่สุดของมอนส์ที่เลือกไว้",
+
+  "_gearswitch_": "สลับอุปกรณ์",
+  "Save your current equipment and card preset to specific slot.": "บันทึกอุปกรณ์และการ์ดที่ใส่อยู่ลงในสล๊อตที่กำหนด",
+  "Increase/Decrease maximum emoji gear switch.": "เพิ่ม/ลด จำนวนอีโมจิที่ใช้ในการสลับอุปกรณ์",
+
+  "_market_": "exchange/บริจาค/ร้านค้า",
+  "Open Exchange Shop": "เปิดหน้าต่าง exchange",
+  "Open Guild Donate Window": "เปิดหน้าต่างบริจาคกิลด์",
+  "Open Shop Window": "เปิดหน้าต่างร้านค้าต่าง ๆ",
+
+  "_warp_": "โมดูลวาร์ปและเทเลพอร์ต",
+  "Change channel. (Channel or Country Code + Channel)": "ย้ายแชแนล ใช้กับเลขแชแนล หรือ รหัสประเทศ + เลขแชแนล",
+  "Drop you to your born point.": "วาร์ปไปยังจุดเกิดในแมพปัจจุบัน",
+  "List all unlocked map.": "แสดงรายการแมพที่ปลดล็อคแล้วและวาร์ปไปได้",
+  "Go to specific map. (Requirements: Cats/Pets/Npcs)": "วาร์ปไปยังแมพที่กำหนด ต้องมีทหารแมว/สัตว์เลี้ยง/npc อยู่ใกล้ ๆ",
+  "Same as butterfly wing effect.": "เหมือนกับการใช้บีวิง กลับจุดเกิด",
+  "Use kafra warp services everywhere. (Requirements: Cats/Pets/Npcs)": "ใช้คาฟร่าวาร์ปได้ทุกที่ ต้องมีทหารแมว/สัตว์เลี้ยง/npc อยู่ใกล้ ๆ",
+  "Turn on/off warp emoji shortcuts.": "เปิด/ปิด อีโมจิที่ใช้ในการวาร์ป",
+
+  "_multitarget_and_flylock_": "โจมตีมอนส์หลายตัวและล็อคฟลายวิง",
+  "List all available monsters and their ids in your current map.": "แสดงรายการชื่อและไอดีของมอนส์ในแมพปัจจุบัน",
+  "Set multiple ids as Auto-Battle target.": "ตั้งไอดีสำหรับโจมตี (ตั้งได้หลายไอดี)",
+  "Turn on/off Multi-Mob feature.": "เปิด/ปิด การโจมตีมอนส์หลายตัว",
+  "Turn on/off FlyLock feature.": "เปิด/ปิด การล็อคฟลายวิง",
+  "Set multiple ids as FlyLock target.": "ตั้งไอดีสำหรับล็อคฟลายวิง (ตั้งได้หลายไอดี)"
+}

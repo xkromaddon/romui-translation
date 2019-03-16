@@ -1,0 +1,111 @@
+{
+  "Show all available commands.": "",
+  "Show all enabled modules.": "",
+  "Reset your settings to default. Useful when you messed up with the settings": "",
+  "Turn on/off Advance Target Information": "",
+  "Unlock and set FPS. Value: 1-120": "",
+  "Refresh client and dump cache.": "",
+  "Check your current latency.": "",
+  "Reconnect when you get disconnected.": "",
+
+  "__@afk__": "__@afk__",
+  "Turn on/off Auto TrickDead": "",
+  "Set hp/sp conditions to trigger.": "",
+
+  "__@as__": "__@as__",
+  "Turn on/off Auto Skill EX": "",
+  "List all available skills that can be extended.": "",
+  "Set your desired manual skill slot as AUTO": "",
+  "Reset current list.": "",
+
+  "__@selftarget__": "__@selftarget__",
+  "Turn on/off Self-Target Module.": "",
+  "Activate Self-Target for all skills.": "",
+  "List all ID of AoE skills.": "",
+  "Set specific skill id as self-target.": "",
+  "Reset selt-target list.": "",
+
+  "__priestsupport__": "__priestsupport__",
+  "Remove buffing restrictions of some buffs that will be casted only when leader is in battle.": "",
+  "Buff specific character even without party. (Limited to non-party buffs Heal/Kyrie/Bless/Resu)": "",
+  "Set specific id to buff. (Shortcut: whisper '-buffme' to the priest)": "",
+  "Reset buff list.": "",
+  "Turn on/off priest auto debuffer. (Lex and Decrease Agi)": "",
+
+  "__autoquest__": "__autoquest__",
+  "Turn on/off Quest Assistant.": "",
+  "Turn on/off Questing Warping upon accepting quest.": "",
+
+  "__autosuicide__": "__autoquest__",
+  "Turn on/off Auto Suicide.": "",
+  "Save current coordinate and map for leveling down.": "",
+
+  "__lockspot__": "__lockspot__",
+  "Turn on/off lockspot module.": "",
+  "Set farming radius. Radius can be set from 0 to 200.": "",
+  "Save your current coordinate as return piont.": "",
+
+  "__autoflywing__": "__autoflywing__",
+  "Turn on/off auto flywing when your HP drops below 30%. It will use TrickDead to recover your HP.": "",
+
+  "__calculator__": "__calculator__",
+  "Turn on/off EXP calculator.": "",
+  "Reset EXP calculator.": "",
+  "Turn on/off ZENY calculator.": "",
+  "Reset ZENY calculator.": "",
+  "Access endless tower anywhere.": "",
+  "Jump to specific floor.": "",
+  "Turn on/off UI Warp & UI Storage for NPCs": "",
+  "Auto accepts incoming PT request.": "",
+  "Auto accepts incoming ET request.": "",
+  "Auto accepts incoming Follow request.": "",
+
+  "__follow__": "_follow_",
+  "Turn on/off Auto Follow for Non-Party.": "",
+  "Set leader id to follow.": "",
+  "Set minimum follow radius.": "",
+
+  "_hplant_": "_hplant_",
+  "Turn on/off Auto-Cast Hell Plant": "",
+  "Save current coordinate as Hell Plant's drop point. Can be used up to 3 points.": "",
+
+  "_mvp_module_": "_mvp module_",
+  "Turn on/off MVP modoule.": "",
+  "Set tracking to auto or manual.": "",
+  "Set notification and target to MVP/MINI/ALL only.": "",
+  "Filter MVP Boards to MVP/MINI/ALL only.": "",
+
+  "_class_specific_": "class specific",
+  "Turn on/off SAGE auto switch bolts module.": "",
+  "Turn on/off BOW class auto switch arrows module.": "",
+  "Turn on/off SWORDSMAN class auto Magnum Break buff.": "",
+
+  "_spot_search_": "spot search",
+  "List all available monsters and their ids in your current map.": "",
+  "Go to the nearest respawn spot of the selected monster.": "",
+
+  "_gearswitch_": "",
+  "Save your current equipment and card preset to specific slot.": "",
+  "Increase/Decrease maximum emoji gear switch.": "",
+
+  "_market_": "",
+  "Open Exchange Shop": "",
+  "Open Guild Donate Window": "",
+  "Open Shop Window": "",
+
+  "_warp_": "",
+  "Change channel. (Channel or Country Code + Channel)": "",
+  "Drop you to your born point.": "",
+  "List all unlocked map.": "",
+  "Go to specific map. (Requirements: Cats/Pets/Npcs)": "",
+  "Same as butterfly wing effect.": "",
+  "Use kafra warp services everywhere. (Requirements: Cats/Pets/Npcs)": "",
+  "Turn on/off warp emoji shortcuts.": "",
+
+  "_multitarget_and_flylock_": "",
+  "List all available monsters and their ids in your current map.": "",
+  "Set multiple ids as Auto-Battle target.": "",
+  "Turn on/off Multi-Mob feature.": "",
+  "Turn on/off FlyLock feature.": "",
+  "Set multiple ids as FlyLock target.": ""
+}

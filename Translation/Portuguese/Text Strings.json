@@ -1,0 +1,113 @@
+{
+  "TRANSLATED BY:" : "Seraphinus#4605",
+
+  "Show all available commands.": "Mostrar todos os comandos disponíveis.",
+  "Show all enabled modules.": "Mostrar todos os módulos disponíveis.",
+  "Reset your settings to default. Useful when you messed up with the settings": "Reseta suas configurações. Útil quando você fez algo de errado.",
+  "Turn on/off Advance Target Information": "Deixa on/off Informações Avançadas do Target.",
+  "Unlock and set FPS. Value: 1-120": "Desbloqueia e define seu FPS. Valor: 1-120.",
+  "Refresh client and dump cache.": "Reseta o cliente e libera o cache.",
+  "Check your current latency.": "Verifica sua latência.",
+  "Reconnect when you get disconnected.": "Reconnecta quando você é desconectado.",
+
+  "__@afk__": "__@afk__",
+  "Turn on/off Auto TrickDead": "Deixa on/off Auto TrickDead.",
+  "Set hp/sp conditions to trigger.": "Deixa as condições de hp/sp para ativar.",
+
+  "__@as__": "__@as__",
+  "Turn on/off Auto Skill EX": "Deixa on/off Extensão de Auto Skill.",
+  "List all available skills that can be extended.": "Lista de todas as skills disponíveis para extender.",
+  "Set your desired manual skill slot as AUTO": "Deixa o seu slot de skill manual como AUTO.",
+  "Reset current list.": "Reseta lista atual.",
+
+  "__@selftarget__": "__@selftarget__",
+  "Turn on/off Self-Target Module.": "Deixa on/off Módulo de Self-Target.",
+  "Activate Self-Target for all skills.": "Ativa Self-Target para todas as skills.",
+  "List all ID of AoE skills.": "Lista todos os IDs de skills AoE.",
+  "Set specific skill id as self-target.": "Deixa o ID de uma skill específica como self-target.",
+  "Reset selt-target list.": "Resetar a lista de self-target.",
+
+  "__priestsupport__": "__priestsupport__",
+  "Remove buffing restrictions of some buffs that will be casted only when leader is in battle.": "Remove restições de buffs de algumas skills que só funcionam se o líder estiver em batalha.",
+  "Buff specific character even without party. (Limited to non-party buffs Heal/Kyrie/Bless/Resu)": "Buffa o char específico mesmo sem estar em party; (Limitado para buffs que não precisam de PT (Heal/Kyrie/Bless/Resu).",
+  "Set specific id to buff. (Shortcut: whisper '-buffme' to the priest)": "Seleciona um id específico para buffar.",
+  "Reset buff list.": "Resetar lista de buffs.",
+  "Turn on/off priest auto debuffer. (Lex and Decrease Agi)": "Deixa on/off auto debuffer do priest. (Lex e Decrease Agi).",
+
+  "__autoquest__": "__autoquest__",
+  "Turn on/off Quest Assistant.": "Deixa on/off assistente de Quests.",
+  "Turn on/off Questing Warping upon accepting quest.": "Deixa on/off auto teleporte ao aceitar uma quest.",
+
+  "__autosuicide__": "__autoquest__",
+  "Turn on/off Auto Suicide.": "Deixa on/off Auto Suicídio.",
+  "Save current coordinate and map for leveling down.": "Salva as coordenadas atuais e volta.",
+
+  "__lockspot__": "__lockspot__",
+  "Turn on/off lockspot module.": "Deixa on/off o módulo de lockspot.",
+  "Set farming radius. Radius can be set from 0 to 200.": "Escolhe a distância do farm. A distância por ser de 0 a 200.",
+  "Save your current coordinate as return piont.": "Salva as coordenadas atuais como ponto de retorno",
+
+  "__autoflywing__": "__autoflywing__",
+  "Turn on/off auto flywing when your HP drops below 30%. It will use TrickDead to recover your HP.": "Deixa on/off auto flywing quando seu HP cair abaixo de 30%. Irá usar TrickDead para recuperar o seu HP.",
+
+  "__calculator__": "__calculator__",
+  "Turn on/off EXP calculator.": "Deixa on/off cálculo de EXP.",
+  "Reset EXP calculator.": "Reseta o cálculo de EXP.",
+  "Turn on/off ZENY calculator.": "Deixa on/off o cálculo de ZENY.",
+  "Reset ZENY calculator.": "Reseta o cálculo de ZENY.",
+  "Access endless tower anywhere.": "Acessar a Torre Infinita de qualquer lugar.",
+  "Jump to specific floor.": "Pular para um andar específico.",
+  "Turn on/off UI Warp & UI Storage for NPCs": "Deixa on/off UI Warp & UI Storage para os NPCs.",
+  "Auto accepts incoming PT request.": "Aceitar automáticamente convites de PT.",
+  "Auto accepts incoming ET request.": "Aceitar automáticamente convites de ET.",
+  "Auto accepts incoming Follow request.": "Aceitar automáticamente convites de Follow.",
+
+  "__follow__": "_follow_",
+  "Turn on/off Auto Follow for Non-Party.": "Deixa on/off Auto Follow para membro fora ta party.",
+  "Set leader id to follow.": "Especifica o ID do líder para dar Follow.",
+  "Set minimum follow radius.": "Especifica a distância mínima do Follow.",
+
+  "_hplant_": "_hplant_",
+  "Turn on/off Auto-Cast Hell Plant": "Deixa on/off Auto-Cast da Hell Plant.",
+  "Save current coordinate as Hell Plant's drop point. Can be used up to 3 points.": "Salva coordenadas atuais das Hell Plants.",
+
+  "_mvp_module_": "_mvp module_",
+  "Turn on/off MVP modoule.": "Deixa on/off módulo de MVP",
+  "Set tracking to auto or manual.": "Seleciona o rastreio para automático ou manual",
+  "Set notification and target to MVP/MINI/ALL only.": "Ativa a notificação para o target escolhido MVP/MINI/ALL.",
+  "Filter MVP Boards to MVP/MINI/ALL only.": "Filtra o MVP Board para MVP/MINI/ALL.",
+
+  "_class_specific_": "class specific",
+  "Turn on/off SAGE auto switch bolts module.": "Deixa on/off troca automática de bolts para SAGE.",
+  "Turn on/off BOW class auto switch arrows module.": "Deixa on/off troca automática de flechas para ARCHERS.",
+  "Turn on/off SWORDSMAN class auto Magnum Break buff.": "Deixa on/off auto Magnum Break buff para SWORDSMAN.",
+
+  "_spot_search_": "spot search",
+  "List all available monsters and their ids in your current map.": "Lista todos os monstros e IDs do seu mapa atual.",
+  "Go to the nearest respawn spot of the selected monster.": "Vai para o respawn mais próximo do monstro selecionado.",
+
+  "_gearswitch_": "gear switch",
+  "Save your current equipment and card preset to specific slot.": "Salva o seu equipamento atual e cartas em um slot específico.",
+  "Increase/Decrease maximum emoji gear switch.": "Aumenta/Diminui o máximo de emojis para o gear switch",
+
+  "_market_": "market",
+  "Open Exchange Shop": "Abre o Exchange Shop",
+  "Open Guild Donate Window": "Abre a Doação da Guild.",
+  "Open Shop Window": "Abre a Loja selecionada.",
+
+  "_warp_": "warp",
+  "Change channel. (Channel or Country Code + Channel)": "Troca de canal. (País + Canal).",
+  "Drop you to your born point.": "Ir para área salva.",
+  "List all unlocked map.": "Lista de todos os mapas habilitados.",
+  "Go to specific map. (Requirements: Cats/Pets/Npcs)": "Vai para mapa especificado. (Requer algum Npc/Monstro/Pet próximo).",
+  "Same as butterfly wing effect.": "Mesmo efeito da asa de borboleta.",
+  "Use kafra warp services everywhere. (Requirements: Cats/Pets/Npcs)": "Usa o serviço da kafra em qualquer lugar.",
+  "Turn on/off warp emoji shortcuts.": "Deixa on/off warp por emojis.",
+
+  "_multitarget_and_flylock_": "multitarget and flylock",
+  "List all available monsters and their ids in your current map.": "Lista todos os monstros e IDs do seu mapa atual.",
+  "Set multiple ids as Auto-Battle target.": "Seleciona vários IDs para o Auto-battle.",
+  "Turn on/off Multi-Mob feature.": "Deixa on/off o recurso de Multi-Mob.",
+  "Turn on/off FlyLock feature.": "Deixa on/off o recurso de FlyLock.",
+  "Set multiple ids as FlyLock target.": "Seleciona vários IDs para o target do FlyLock."
+}
