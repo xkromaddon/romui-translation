@@ -1,0 +1,113 @@
+{
+  "TRANSLATED BY:" : "soyolivio#7050",
+
+  "Show all available commands.": "Mostrar todos los comandos disponibles.",
+  "Show all enabled modules.": "Mostrar todos los modulos disponibles",
+  "Reset your settings to default. Useful when you messed up with the settings": "Resetea las configuraciones, muy util cuando lo desconfiguraste.",
+  "Turn on/off Advance Target Information": "Puedes activar/desactivar la informacion avanzada del objetivo.",
+  "Unlock and set FPS. Value: 1-120": "Desbloquea y selecciona sus FPS. Valor: 1-120.",
+  "Refresh client and dump cache.": "Resetea el cliente y libera el cache.",
+  "Check your current latency.": "Comprobar la latencia actual.",
+  "Reconnect when you get disconnected.": "Reconecta cuando tu personaje fue desconectado.",
+
+  "__@afk__": "__@afk__",
+  "Turn on/off Auto TrickDead": "Puedes activar/desactivar Auto TrickDead.",
+  "Set hp/sp conditions to trigger.": "Selecciona en que condiciones de hp/sp se activa.",
+
+  "__@as__": "__@as__",
+  "Turn on/off Auto Skill EX": "Puedes activar/desactivar extension de auto habilidad.",
+  "List all available skills that can be extended.": "Lista de todas las habilidades que pueden ser extendidas.",
+  "Set your desired manual skill slot as AUTO": "Establezca su ranura de habilidad manual deseada como AUTO.",
+  "Reset current list.": "Resetea la lista actual.",
+
+  "__@selftarget__": "__@selftarget__",
+  "Turn on/off Self-Target Module.": "Puedes activar/desactivar el modulo de autoapuntado.",
+  "Activate Self-Target for all skills.": "Activa el autoapuntado para todas las habilidades.",
+  "List all ID of AoE skills.": "Lista todos los IDs de las habilidades en area.",
+  "Set specific skill id as self-target.": "Selecciona una habilidad especifica como autoapuntado.",
+  "Reset selt-target list.": "Resetea la lista de autoapuntado.",
+
+  "__priestsupport__": "__priestsupport__",
+  "Remove buffing restrictions of some buffs that will be casted only when leader is in battle.": "Remueve las restricciones de buffs de algunas habilidades que solo funcionan si el lider esta en batalla.",
+  "Buff specific character even without party. (Limited to non-party buffs Heal/Kyrie/Bless/Resu)": "Buffea un personaje en especifico sin estar en party; (Limitado para buffs que no precisan de party (Heal/Kyrie/Bless/Resu).",
+  "Set specific id to buff. (Shortcut: whisper '-buffme' to the priest)": "Seleciona un id especifico para buffear.",
+  "Reset buff list.": "Resetea la lista de buffs.",
+  "Turn on/off priest auto debuffer. (Lex and Decrease Agi)": "Puedes activar/desactivar el auto-debuffer en priest. (Lex y Decrease Agi).",
+
+  "__autoquest__": "__autoquest__",
+  "Turn on/off Quest Assistant.": "Puedes activar/desactivar el asistente de misiones.",
+  "Turn on/off Questing Warping upon accepting quest.": "Puedes activar/desactivar auto teletransporte al aceptar una mision.",
+
+  "__autosuicide__": "__autoquest__",
+  "Turn on/off Auto Suicide.": "Puedes activar/desactivar Auto Suicidio.",
+  "Save current coordinate and map for leveling down.": "Guarda las coordenadas y mapa actuales para volver.",
+
+  "__lockspot__": "__lockspot__",
+  "Turn on/off lockspot module.": "Puedes activar/desactivar el modulo de lockspot.",
+  "Set farming radius. Radius can be set from 0 to 200.": "Elige la distancia de farmeo. La distancia puede ser un valor entre 0 y 200.",
+  "Save your current coordinate as return piont.": "Guarda las coordenadas actuales como punto de retorno.",
+
+  "__autoflywing__": "__autoflywing__",
+  "Turn on/off auto flywing when your HP drops below 30%. It will use TrickDead to recover your HP.": "Puedes activar/desactivar flywings automaticas cuando su vida sea menor a 30%. Usara trick dead para recuperar su vida.",
+
+  "__calculator__": "__calculator__",
+  "Turn on/off EXP calculator.": "Puedes activar/desactivar la calculadora de EXP.",
+  "Reset EXP calculator.": "Resetea la calculadora.",
+  "Turn on/off ZENY calculator.": "Puedes activar/desactivar la calculadora de ZENY.",
+  "Reset ZENY calculator.": "Resetea el calculo de ZENY.",
+  "Access endless tower anywhere.": "Acceder a Endless Tower desde cualquier lugar.",
+  "Jump to specific floor.": "Moverse a un piso en especifico.",
+  "Turn on/off UI Warp & UI Storage for NPCs": "Puedes activar/desactivar UI Warp & UI Storage para los NPCs.",
+  "Auto accepts incoming PT request.": "Aceptar automaticamente las invitaciones de party.",
+  "Auto accepts incoming ET request.": "Aceptar automaticamente las invitaciones de Endless Tower.",
+  "Auto accepts incoming Follow request.": "Aceptar automaticamente las invitaciones de Follow.",
+
+  "__follow__": "_follow_",
+  "Turn on/off Auto Follow for Non-Party.": "Puedes activar/desactivar el auto seguimiento para un personaje fuera del party.",
+  "Set leader id to follow.": "Especifica un ID de líder para seguirlo.",
+  "Set minimum follow radius.": "Especifica la distancia minima de seguimiento.",
+
+  "_hplant_": "_hplant_",
+  "Turn on/off Auto-Cast Hell Plant": "Puedes activar/desactivar Auto-Casteo de Hell Plant.",
+  "Save current coordinate as Hell Plant's drop point. Can be used up to 3 points.": "Guarda las coordenadas actuales de las Hell Plants.",
+
+  "_mvp_module_": "_mvp module_",
+  "Turn on/off MVP modoule.": "Puedes activar/desactivar el modulo de MVP.",
+  "Set tracking to auto or manual.": "Selecciona el rastreo automatico o manual.",
+  "Set notification and target to MVP/MINI/ALL only.": "Activa las notificaciones y objetivos a MVP/MINI/ALL.",
+  "Filter MVP Boards to MVP/MINI/ALL only.": "Filtra el tablero de MVP a MVP/MINI/ALL.",
+
+  "_class_specific_": "class specific",
+  "Turn on/off SAGE auto switch bolts module.": "Puedes activar/desactivar el cambio automatico de bolts para SAGE.",
+  "Turn on/off BOW class auto switch arrows module.": "Puedes activar/desactivar el cambio automatico de flechas para ARQUEROS.",
+  "Turn on/off SWORDSMAN class auto Magnum Break buff.": "Puedes activar/desactivar auto Magnum Break buff para SWORDSMAN.",
+
+  "_spot_search_": "spot search",
+  "List all available monsters and their ids in your current map.": "Lista todos los monsturos e IDs de su mapa actual.",
+  "Go to the nearest respawn spot of the selected monster.": "Ve para el respawn mas proximo del monstruo seleccionado.",
+
+  "_gearswitch_": "gear switch",
+  "Save your current equipment and card preset to specific slot.": "Guarda su equipamento actual y cartas en un slot especifico.",
+  "Increase/Decrease maximum emoji gear switch.": "Aumenta/Disminuye el maximo de emojis para guardar equipamentos.",
+
+  "_market_": "market",
+  "Open Exchange Shop": "Abre el Exchange (mercado).",
+  "Open Guild Donate Window": "Abre las donaciones del guild.",
+  "Open Shop Window": "Abre el shop seleccionado.",
+
+  "_warp_": "warp",
+  "Change channel. (Channel or Country Code + Channel)": "Cambia de canal. (Pais + Canal).",
+  "Drop you to your born point.": "Ir para el area guardada.",
+  "List all unlocked map.": "Lista de todos los mapas habilitados.",
+  "Go to specific map. (Requirements: Cats/Pets/Npcs)": "Ve al mapa seleccioado. (Requiere algun Npc/Monstruo/Pet cerca).",
+  "Same as butterfly wing effect.": "Mismo efecto que las butterfly wings.",
+  "Use kafra warp services everywhere. (Requirements: Cats/Pets/Npcs)": "Usa el servicio de Kafra en cualquier lugar.",
+  "Turn on/off warp emoji shortcuts.": "Puedes activar/desactivar los emojis de warpeo.",
+
+  "_multitarget_and_flylock_": "multitarget and flylock",
+  "List all available monsters and their ids in your current map.": "Lista todos los monstruos e IDs de su mapa actual.",
+  "Set multiple ids as Auto-Battle target.": "Selecciona varios IDs para Autoatacar.",
+  "Turn on/off Multi-Mob feature.": "Puedes activar/desactivar el modulo de Multi-Mob.",
+  "Turn on/off FlyLock feature.": "Puedes activar/desactivar el modulo de FlyLock.",
+  "Set multiple ids as FlyLock target.": "Selecciona varios IDs como objetivos de FlyLock."
+}
